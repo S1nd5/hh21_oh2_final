@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(145, 145, 145);
+}
+div.container {
+	margin: 2vh auto;
+	background-color: rgba(255,255,255, 0.5);
+	border: 1.5px rgba(199, 199, 199);
+	border-radius: 6px;
+	padding: 16px 28px;
+}
